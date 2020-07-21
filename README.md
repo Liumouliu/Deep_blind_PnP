@@ -8,13 +8,19 @@ Please download synthetic [ModelNet40](https://drive.google.com/file/d/1Tj7rN4g3
 
 # Codes and Models
 
-##Prerequisites
+## Prerequisites
 Pytorch=1.1.0 : (This is the version on my PC, but I think it also works on yours)
+
 numpy
+
 opencv
+
 tensorboardX
+
 easydict
+
 logging
+
 json
 
 If you find missing Prerequisites, please Google and install them using conda or pip
@@ -55,7 +61,7 @@ If you have questions, please first refer to comments in scripts.
 1) Can this paper be used in partial-to-partial matching? Yes.
 2) Can this paper be used in a real-world localization scenario? Yes.
 
-I have done experiments to verify the above answer.
+I have done experiments to verify the above answers.
 
 # Publications
 
