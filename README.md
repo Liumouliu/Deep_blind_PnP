@@ -63,27 +63,30 @@ If you like, you can cite the following publication:
 
 *Liu, Liu, Dylan Campbell, Hongdong Li, Dingfu Zhou, Xibin Song, and Ruigang Yang. "Learning 2D-3D Correspondences To Solve The Blind Perspective-n-Point Problem." arXiv preprint arXiv:2003.06752 (2020).*
 
-
+<pre>
 @article{liu2020learning,
   title={Learning 2D-3D Correspondences To Solve The Blind Perspective-n-Point Problem},
   author={Liu, Liu and Campbell, Dylan and Li, Hongdong and Zhou, Dingfu and Song, Xibin and Yang, Ruigang},
   journal={arXiv preprint arXiv:2003.06752},
   year={2020}
 }
+</pre>
 
 And also the following publication:
 
-Dylan Campbell&ast;, Liu, Liu &ast; and Stephen Gould. "Solving the Blind Perspective-n-Point Problem End-To-End with Robust Differentiable Geometric Optimization." In Proceedings of the European Conference on Computer Vision (ECCV), 2020. (* indicates equal contribution)
+Dylan Campbell &ast;, Liu, Liu &ast; and Stephen Gould. "Solving the Blind Perspective-n-Point Problem End-To-End with Robust Differentiable Geometric Optimization." In Proceedings of the European Conference on Computer Vision (ECCV), 2020. (* indicates equal contribution)
 
 
+<pre>
 @inproceedings{CampbellAndLiu:ECCV2020,
-  author    = {Dylan Campbell ^{*} and
-               Liu Liu ^{*} and
-               Stephen Gould},
-title     = {Solving the Blind Perspective-n-Point Problem End-To-End with Robust Differentiable Geometric Optimization},
+  author = {Dylan Campbell^\ast$ and Liu Liu^\ast$ and Stephen Gould},
+  title = {Solving the Blind Perspective-n-Point Problem End-To-End with Robust Differentiable Geometric Optimization},
   booktitle = {ECCV},
-  year      = {2020}
+  year = {2020},
+  note = {$^\ast$ equal contribution},
 }
+</pre>
+
 
 
 
