@@ -79,7 +79,7 @@ Dylan Campbell &ast;, Liu, Liu &ast; and Stephen Gould. "Solving the Blind Persp
 
 <pre>
 @inproceedings{CampbellAndLiu:ECCV2020,
-  author = {Dylan Campbell^\ast$ and Liu Liu^\ast$ and Stephen Gould},
+  author = {Dylan Campbell$^\ast$ and Liu Liu$^\ast$ and Stephen Gould},
   title = {Solving the Blind Perspective-n-Point Problem End-To-End with Robust Differentiable Geometric Optimization},
   booktitle = {ECCV},
   year = {2020},
