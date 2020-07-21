@@ -73,7 +73,7 @@ If you like, you can cite the following publication:
 
 And also the following publication:
 
-*Dylan Campbell&ast, Liu, Liu &ast and Stephen Gould. "Solving the Blind Perspective-n-Point Problem End-To-End with Robust Differentiable Geometric Optimization." In Proceedings of the European Conference on Computer Vision (ECCV), 2020. (* indicates equal contribution)*
+*Dylan Campbell&ast;, Liu, Liu &ast; and Stephen Gould. "Solving the Blind Perspective-n-Point Problem End-To-End with Robust Differentiable Geometric Optimization." In Proceedings of the European Conference on Computer Vision (ECCV), 2020. (* indicates equal contribution)*
 
 
 @inproceedings{CampbellAndLiu:ECCV2020,
