@@ -94,7 +94,9 @@ Dylan Campbell &ast;, Liu, Liu &ast; and Stephen Gould. "Solving the Blind Persp
 </pre>
 
 
+# Contact
 
+If you have any questions (NOT those you can find answers via Google), drop me an email (Liu.Liu@anu.edu.au)
 
 
 
