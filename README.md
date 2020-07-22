@@ -29,7 +29,7 @@ If you find missing Prerequisites, please Google and install them using conda or
 Our model is implemented both in Tensorflow and Pytorch. Currently, only Pytorch codes are uploaded.
 All our models are trained from scratch, so please run the training codes to obtain models.
 
-For pre-trained models, please refer to [PreTrainModel folder](./codes_pytorch/output). Under the folder of each dataset, there is a folder named preTrained and you can find it there.
+For pre-trained models, please refer to [PreTrainModel folder](./output). Under the folder of each dataset, there is a folder named preTrained and you can find it there.
 
 ## Training
 
@@ -54,7 +54,7 @@ If you have questions, please first refer to comments in scripts.
 
 1) Learning rate is set to 1e-3 for MegaDepth dataset and 1e-4 for ModelNet40 and NYU-RGBD. I found better performance can be obtained by just simply changing the learning rate one day, instead of using 1e-5 as reported in the paper.
 
-2) If you want to use a classification network [Section 3.4 Correspondence Set Refinement] to polish the 3D-2D matches, please modify the network proposed in [Learning to Find Good Correspondences](https://github.com/vcg-uvic/learned-correspondence-release) following the guideline in [tf_pose_loss.py]()
+2) If you want to use a classification network [Section 3.4 Correspondence Set Refinement] to polish the 3D-2D matches, please modify the network proposed in [Learning to Find Good Correspondences](https://github.com/vcg-uvic/learned-correspondence-release) following the guideline in [tf_pose_loss.py](./utils/tf_pose_loss.py)
 
 # Q/A
 
