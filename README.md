@@ -3,6 +3,15 @@
 
 This contains the datasets and codes for training the deep blind PnP method described in : Learning 2D–3D Correspondences To Solve The Blind Perspective-n-Point Problem. It also serves as the foundation for method described in : Solving the Blind Perspective-n-Point Problem End-To-End With Robust Differentiable Geometric Optimization (ECCV2020, Oral).
 
+# Contribution in Sentences
+
+Given two sets (one 3D and one 2D this paper), and you want to estimate matches.  1) extract point-wise features; 2) use our method to estimate a joint probability matrix; 3) take the top-K matches from the probability matrix.
+
+![alt text](./framework.PNG)
+
+
+
+
 # Datasets
 Please download synthetic [ModelNet40](https://drive.google.com/file/d/1Tj7rN4g3xY8ODQbMtrqyPyCsnttem6v9/view?usp=sharing), [NYU-RGBD](https://drive.google.com/file/d/1lTZH90zL3roNgHSkynXURmlGGfYyeKT6/view?usp=sharing) and real-world [MegaDepth](https://drive.google.com/file/d/1DKBgayxu0iPXqB-fiCKBWkP4OhuXV-im/view?usp=sharing) datasets.
 
